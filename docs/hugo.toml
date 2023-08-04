@@ -1,0 +1,6 @@
+title = 'CIL tutorial'
+theme = 'hugo-book'
+
+[markup]
+  [markup.highlight]
+    style = 'abap'
